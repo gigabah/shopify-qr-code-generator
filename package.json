@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "@shopify/app": "3.45.4",
-    "@shopify/cli": "3.45.4"
+    "@shopify/cli": "3.45.4",
+    "morgan": "^1.10.0"
   },
   "author": "bsteele"
 }
