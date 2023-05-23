@@ -58,3 +58,6 @@ app.use("/*", shopify.ensureInstalledOnShop(), async (_req, res, _next) => {
 });
 
 app.listen(PORT);
+
+
+// Path: web/middleware/qr-code-api.js
